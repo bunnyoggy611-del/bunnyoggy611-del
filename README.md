@@ -7,7 +7,7 @@
 
 ### 💻 About Me
 - 🚀 Passionate about learning **C++** and software development.
-- 🎯 Building clean logic, solving problems, and uploading projects daily.
+- 🎯 Building clean logic, solving problems, and uploading projects daily. 
 - 🌟 Working towards complete financial independence through technology.
 - 🐾 Coding enthusiast with my cat, Tom, right by my side! 🐱
 
